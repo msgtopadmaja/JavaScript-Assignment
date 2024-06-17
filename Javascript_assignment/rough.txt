@@ -1,0 +1,29 @@
+<div class="shop">
+          <a href="#">
+            <button>Shop now</button>
+          </a>
+        </div>
+        <div class="title">
+          <p>Beautiful living greenery homes and officies</p>
+        </div>
+        <div class="sub-title">
+          <p>Wer've been mentioned in the press</p>
+        </div>
+        <div class="two-brand">
+          <span class="bloom">Bloomerg</span>
+          <span class="forbes">Forbes</span>
+        </div>
+
+
+     <!-- <section class="home" id="plant-overview">
+        <div class="content">
+          <h1>Best house plants varieties.</h1>
+        </div>
+      </section> -->
+
+
+
+
+
+
+
